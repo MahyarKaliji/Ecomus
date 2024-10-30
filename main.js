@@ -707,7 +707,7 @@ const products = [
     imgHoverSrc: "images/products/pink-1.jpg",
     detailLink: "product-detail.html",
     name: "تیشرت تابستانه سایز بزرگ",
-    price: "18.55",
+    price: "18.55",demo
   },
   {
     imgSrc: "images/products/light-green-1.jpg",
